@@ -25,7 +25,7 @@ while True:
     elif soru == "2":
      sayı3 = int(input("Çıkarma işlemi için ilk sayıyı giriniz:"))
      sayı4 = int(input("Çıkarma işlemi için ikinci sayıyı giriniz:"))
-     print(sayı3,"-",sayı4,"=",sayı3+sayı4)
+     print(sayı3,"-",sayı4,"=",sayı3-sayı4)
     elif soru == "3":
      sayı5 = int(input("Çarpma işlemi için ilk sayıyı giriniz:"))
      sayı6 = int(input("Çarpma işlemi için ikinci sayıyı giriniz:"))
