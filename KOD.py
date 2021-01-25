@@ -1,6 +1,6 @@
 ### PYTHON ###
 
-#HESAP MAKİNESİ
+#HESAP MAKİNESİ#
 
 seçenek1 = "(1) topla"
 seçenek2 = "(2) çıkar"
@@ -38,4 +38,4 @@ elif soru == "6":
     print(sayı10,"sayının karekökü =",sayı10**0.5)
 else :
  print("YANLIŞ GİRİŞ.")
-print("Aşağıdaki seçeneklerden birini giriniz:",seçenek1,seçenek2,seçenek3,seçenek4,seçenek5,seçenek6, sep="\n")
+ print("Aşağıdaki seçeneklerden birini giriniz:",seçenek1,seçenek2,seçenek3,seçenek4,seçenek5,seçenek6, sep="\n")
